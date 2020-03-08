@@ -1,0 +1,18 @@
+/*intro buttons*/
+.begin {
+    text-align: center;
+}
+
+.begin>button {
+    font-size: large;
+}
+
+#confirm {
+    margin-right: 2%;
+}
+/*end_intro buttons*/
+
+#header {
+    text-align: center;
+    font-family: 'Spartan', sans-serif;
+}
